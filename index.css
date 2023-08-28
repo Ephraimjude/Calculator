@@ -7,11 +7,11 @@
 .calculator{
     display: grid;
     justify-content: center;
-    Max-width: 280px;
+    Max-width: 620px;
     margin: 20px auto;
     padding: 40px;
     align-items: center;
-    border: 2px solid rgb(233, 233, 233);
+    border: 0px solid rgb(233, 233, 233);
     border-radius: 5px;
     box-shadow: rgb(0, 0, 0, 0.5);
 }
